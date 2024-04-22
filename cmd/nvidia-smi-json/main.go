@@ -6,7 +6,7 @@ import (
 	"io/ioutil"
 	"os"
 
-	nvidiasmijson "github.com/fffaraz/nvidia-smi-json"
+	nvidiasmijson "github.com/tmc/nvidia-smi-json"
 )
 
 func main() {
